@@ -2,6 +2,7 @@ export default class SwanSDK {
     private appId;
     private deviceId;
     private webSDKUrl;
+    private ecomSDKUrl;
     private ecomEventUrl;
     private ecomDeviceUrl;
     private notificationAckUrl;
